@@ -1,0 +1,68 @@
+/**
+ * @name Lorax Theme (SPECIAL)
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://media.tenor.com/0qQm8Z2Nd38AAAAC/lorax.gif');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://media.tenor.com/GJGRlQAw_PgAAAAd/lorax-the-lorax.gif');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://media.tenor.com/BzpCcZbxOAIAAAAd/lorax-the-lorax.gif');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/fhQKsCt.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.62;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.5;
+  --overlay-brightness: 0.68;
+  --gradient-primary: 255,145,0;
+  --gradient-secondary: 255,202,0;
+  --link-colour: #FF9100;
+  --scrollbar-colour: rgb(255,145,0,1);
+  --gradient-direction: 234deg;
+  --tint-colour: 251,255,0;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
